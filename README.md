@@ -35,7 +35,7 @@ Em resumo, os passos foram:
 
 ## Pontos de atenção:
 
-1. **O treinamento "demora" para ser aplicado**: Reparei que a Tarefa(Job) `mslearn-bike-rental` relacionou 7 modelos diferentes, levando em torno de 11 minutos até se apresentar como concluída(conforme imagem abaixo)
+1. **O treinamento "demora" para ser aplicado**: Reparei que a Tarefa(Job) `mslearn-bike-rental` relacionou 7 modelos diferentes - 1 deles tendo sido apontado como o melhor - e levando em torno de 11 minutos até se apresentar como concluída(conforme imagem abaixo)
 
 ![Img](./imagens/job_best_model.png)
 
